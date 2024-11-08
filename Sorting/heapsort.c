@@ -103,6 +103,6 @@ void main()
     printf("\nSorted : ");
     for(i = 1; i <= size; i++)
     {
-        printf("%d", a[i]);
+        printf("%d ", a[i]);
     }
 }
